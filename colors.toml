@@ -1,0 +1,31 @@
+# 桂林山水·夜 Guilin Night — 漓江夜色为底、晨雾白为字、碧水青为印。
+mode = "dark"
+accent = "#6FC2A0"
+selection = "#263F38"
+muted = "#5B6862"
+
+background = "#0F1916"
+dark_background = "#090F0E"
+darker_background = "#040605"
+lighter_background = "#1A2C27"
+
+foreground = "#DDE6E0"
+dark_foreground = "#84928B"
+light_foreground = "#B9C6BF"
+bright_foreground = "#DDE6E0"
+
+red = "#DE6C60"
+yellow = "#D2B45E"
+orange = "#D8905A"
+green = "#6FC2A0"
+cyan = "#62B8C2"
+blue = "#7EA4D8"
+magenta = "#C488B6"
+brown = "#AE967E"
+
+bright_red = "#E58B82"
+bright_yellow = "#DBC37E"
+bright_green = "#8CCEB3"
+bright_cyan = "#7FC5CD"
+bright_blue = "#9DBAE1"
+bright_magenta = "#D2A3C7"
