@@ -16,6 +16,9 @@ omarchy theme install https://github.com/rwanglq-ctrl/omarchy-guilin-night-theme
 2. [Cormorant Fisherman on the Li River.jpg](https://commons.wikimedia.org/wiki/File:Cormorant_Fisherman_on_the_Li_River.jpg) — Rod Waddington，CC BY-SA 2.0（Wikimedia Commons）；已裁切、缩放
 3. [阳朔峰林日落](https://unsplash.com/photos/sunset-over-a-city-surrounded-by-numerous-karst-mountains-__sP4dDE0_4) — Caleb Jack，Unsplash License（Unsplash）
 4. [漓江暮色](https://unsplash.com/photos/people-on-beach-during-sunset-ziAIutI-PDA) — dave cadwell，Unsplash License（Unsplash）
+5. [漓江鸬鹚渔翁](https://unsplash.com/photos/person-paddling-bamboo-raft-with-lantern-NamGr65Lg4g) — niko linh，Unsplash License（Unsplash）
+6. [漓江灯船](https://unsplash.com/photos/a-traditional-boat-with-a-lantern-at-night-eScTbL40710) — YMA，Unsplash License（Unsplash）
+7. [龙脊金色梯田](https://unsplash.com/photos/golden-rice-terraces-on-mountain-slopes-06QpKIYxWe4) — Willian Justen de Vasconcellos，Unsplash License（Unsplash）
 
 ## 许可
 
